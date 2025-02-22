@@ -1,0 +1,6 @@
+ # Using concepts:
+✅ DOM Traversing: getElementById, getElementsByClassName, querySelectorAll
+✅ Dynamic Style Manipulation: setAttribute, innerText, innerHTML
+✅ CSS Class Add/Remove: classList.add(), classList.remove()
+✅ Create & Append Elements: createElement(), appendChild()
+✅ Node Traversing: parentNode, childNodes
